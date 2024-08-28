@@ -18,7 +18,7 @@ h1 {
     text-align: center;
 }
 
-ul {
+/* ul {
     padding: 0;
     margin-bottom: 0;
 }
@@ -27,9 +27,9 @@ ul li {
     border: 1px solid red;
     list-style: none;
     padding: 5px;
-}
+} */
 
 input {
-    border: none;
-    width: 100%;
+    /* border: none; */
+    width: 50%;
 }
